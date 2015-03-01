@@ -5,6 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
+#url: http://localhost:8080
 url: http://blog.morequalifiedleads.co.uk
 
 # Jekyll configuration
