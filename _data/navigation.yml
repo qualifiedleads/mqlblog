@@ -1,19 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Articles
   url: /articles/
 
-- title: Blog
-  url: /blog/
+- title: More Qualified Leads
+  url: http://morequalifiedleads.co.uk
+  
+- title: Mobile Advertising
+  url: http://taptap.mobi
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Display intel
+  url: http://www.taptap.mobi/charts/index.html
 
-- title: Made Mistakes
-  url: http://mademistakes.com
-
+- title: About
+  url: /about/
+  
 - title: Search
   url: /search/
