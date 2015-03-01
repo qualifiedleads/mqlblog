@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: R.o.A.S
 locale: en_US
-description: Describe your website here.
+description: a Media Buying blog
 logo: site-logo.png
 search: true
 #url: http://localhost:8080
