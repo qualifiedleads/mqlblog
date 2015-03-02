@@ -2,7 +2,7 @@
 layout: post
 title: David Ogilvy’s Sales manual
 excerpt: "a reproduction of David Ogilvy’s Sales Manual for the Aga Cooker, written in 1935"
-modified: 2013-06-27
+modified: 2015-03-02
 categories: articles
 tags: [sales]
 comments: true
