@@ -18,7 +18,7 @@ So , you would have to increase the budget allocated to learning to speed up the
 
 
 <figure>
-	<img src="/images/cpc_target.jpg" alt="image"><img src="/images/cpc_target.jpg" alt="image">
+	<img src="/images/cpc_target.jpg" alt="image">
 	<figcaption>Get CPC rates, while paying CPM</figcaption>
 </figure>
 
