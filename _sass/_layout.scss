@@ -349,6 +349,7 @@ span + .entry-title {
 		display: block;
 		float: none;
 		@include font-size(14, no, 16);
+		line-height:1.6;
 		@include media($medium) {
 			width: 70%;
 		}
