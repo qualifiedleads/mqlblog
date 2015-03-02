@@ -1,7 +1,7 @@
 ---
 layout: post
 title: David Ogilvy’s Sales manual
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "a reproduction of David Ogilvy’s Sales Manual for the Aga Cooker, written in 1935"
 modified: 2013-06-27
 categories: articles
 tags: [sales]
@@ -94,10 +94,10 @@ THE NEW STANDARD AGA COOKER costs £47 10S. Add from £5 for Delivery and Erecti
 
 H.P. Terms for 3 years: Initial payment, £5 10s, followed by:
 
-	* 36 monthly payments of £2 12s, 10d plus 8/4 for fuel
-	* £3 28. 2d a month
-	* 12 quarterly payments of £4;0s 1d. plus 25/- for fuel
-	* £9 5s 1d a quarter
+* 36 monthly payments of £2 12s, 10d plus 8/4 for fuel
+* £3 28. 2d a month
+* 12 quarterly payments of £4;0s 1d. plus 25/- for fuel
+* £9 5s 1d a quarter
 	
 NOTE:—For fuel consumptions smaller than those shown the fuel saving is so small as to be hardly worth using as a major argument. You have barked up the wrong tree. Change gracefully to another argument, without giving the impression that any wind has gone out of your sails.
 
