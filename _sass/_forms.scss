@@ -64,7 +64,7 @@ select {
 	margin-bottom: 5px / 4;
 	background-color: $white;
 	border: 1px solid lighten($black, 80);
-	color: $text-color; 
+	color: $black; 
 	&:hover {
 		border-color: lighten($accent-color, 50); 
 	}
