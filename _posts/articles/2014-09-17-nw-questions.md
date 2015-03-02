@@ -34,3 +34,7 @@ share: true
 *	What is your policy on **click fraud**? Do you have one?
 *	What percentage of your traffic is from apps/mobile web?
 *	What are some of your top publishers?
+
+###If the NW is a fully-managed service:
+* 	Do you have experience in ... niche?
+* 	What similar advertisers have you managed in this niche?
