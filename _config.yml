@@ -51,6 +51,4 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
-
-#comments
-comments: true
+  comments: true
