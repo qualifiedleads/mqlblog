@@ -151,6 +151,7 @@ figcaption {
 	background-color: lighten($black, 95);
 	border: 1px solid lighten($black, 90);
 	@include rounded(4px);
+	color:$black;
 }
 
 
