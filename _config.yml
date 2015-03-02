@@ -5,6 +5,7 @@ locale: en_US
 description: a Media Buying blog
 logo: roasi.png
 search: true
+comments:true
 #url: http://localhost:8080
 url: http://blog.morequalifiedleads.co.uk
 
@@ -51,4 +52,3 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
-  comments: true
