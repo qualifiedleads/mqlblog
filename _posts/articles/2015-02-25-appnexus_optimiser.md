@@ -3,7 +3,7 @@ layout: post
 title: "AppNexus optimiser"
 excerpt: "AppNexus: set your own CPC, while paying CPM, huh?"
 categories: articles
-tags: [AppNexus, media buying]
+tags: [AppNexus, media buying, traffic sources]
 comments: true
 share: true
 ---
@@ -18,19 +18,20 @@ So , you would have to increase the budget allocated to learning to speed up the
 
 
 <figure>
-	<img src="/images/cpc_target.jpg" alt="image">
+	<img src="/images/cpc_target.jpg" alt="image"><img src="/images/cpc_target.jpg" alt="image">
 	<figcaption>Get CPC rates, while paying CPM</figcaption>
 </figure>
 
 *To use, set the following:*
-1. set a daily budget
-2. check: “Buy Third-Party inventory”
-3. check “pay on a CPM basis”
-4. from the dropdown select “Optimise to a predicted CPC goal”
-5. set a Campaign budget, eg “Media Cost” $2000
-6. set a daily “learning cap”
 
-What is a “daily learning cap”?
+	1. set a daily budget
+	2. check: “Buy Third-Party inventory”
+	3. check “pay on a CPM basis”
+	4. from the dropdown select “Optimise to a predicted CPC goal”
+	5. set a Campaign budget, eg “Media Cost” $2000
+	6. set a daily “learning cap”
+
+####What is a “daily learning cap”?
 It’s the amount you set aside for the optimisation algorithm to calculate & test. It will attempt to find placements/sites that can get you a CPC that you want to get.
 
 So, even though you’re still bidding on a CPM rate, you effectively pay CPC. Pretty snazzy tool.
