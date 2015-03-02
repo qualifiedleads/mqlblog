@@ -56,6 +56,8 @@ Means: You get to use it for free for one month and I will ‘net’ the profit 
 
 ##“Preferred Customer Club discount”
 This involves offering a limited time to join the “Preferred customer Club”. Joining costs nothing, but it benefits the person with a discount.
+However, the discount is already factored-in and is only designed to keep the customer on an auto-renewal, charging their credit card on a monthly basis.
+
 This type of offer can make it so that you don’t need to break-even on the first transaction. Obviously you need to do your arithmetic first before deploying this on a large scale.
 
 ##“One-Time-Offer”
