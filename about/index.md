@@ -5,7 +5,7 @@ excerpt: "What's all this, then?"
 modified: 2010-08-08T19:44:38.564948-04:00
 ---
 
-Looking for some simple, usable advice about media buying? Well look no further. Here be **ROAS**, the follow up to [**Mobile Data Insider**](www.taptap.mobi/charts/index.html) --- by meeia buyer [Jen-Lars Brannstrom](http://il.linkedin.com/in/jenbrannstrom).
+Looking for some simple, usable advice about media buying? Well look no further. Here be **ROAS**, the follow up to [**Mobile Data Insider**](http://taptap.mobi/charts/index.html) --- by [Jen-Lars Brannstrom](http://il.linkedin.com/in/jenbrannstrom).
 
 ## What is RAOS:
 
