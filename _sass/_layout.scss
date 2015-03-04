@@ -362,9 +362,9 @@ span + .entry-title {
 	a { 
 		padding: 4px 6px;
 		margin: 2px;
-		background-color: lighten($black, 90);
 		@include rounded(4px);
 		text-decoration: none;
+		border: 1px dotted #fff;
 		span { 
 			vertical-align: super;
 			@include font-size(10);
