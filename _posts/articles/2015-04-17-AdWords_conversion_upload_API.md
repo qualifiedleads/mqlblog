@@ -2,9 +2,14 @@
 published: false
 ---
 
-## A New Post
+## Uploading conversions via the AdWords API
 
-Creating the AdWords conversion upload API.
+Utilising the AdWords conversion upload API and connecting it to your tracker/crm/MySQL is not for teh faint-hearted. Not so much for eth programming work involved, but the complexity of security steps and permissions required by Google.
+One of our clients recently had no other choice but to use the "conversion upload API". They are buying significant AdWords display traffic, sending it to a mobile-web page that has a Carrier-billing system. The UK version is "PayForIt", the Germand version is 
+, etc...
+Because of this carrier-billing the usual AdWords conversion tracking tag was unreliable at best. Sometimes triggering conversiosn where there were none, sometimes counting them multiple times. Erratic.
+
+So we had to use the conversion upload feature
 You will need:
 + MCC access
 + a Test MCC account
