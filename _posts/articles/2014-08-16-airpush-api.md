@@ -126,7 +126,7 @@ Fork the [repo from GitHub](https://github.com/TapTapMobile/airpush_conversion_a
 
 
 
-### Fenced Code Blocks
+### Git' it
 
-To modify styling and highlight colors edit `/_sass/_coderay.scss`. Line numbers and a few other things can be modified in `_config.yml`. Consult [Jekyll's documentation](http://jekyllrb.com/docs/configuration/) for more information.
+Fork the [repo from GitHub](https://github.com/TapTapMobile/airpush_conversion_api) and help us create a better version.
 
