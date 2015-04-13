@@ -14,7 +14,7 @@ As a test I started using the conversion upload to see if we could somehow get t
 
 The client was dismissive, and AdWords support said that becuase this was an RTB feature it would not work.
 
-I decided to try it anyway, as it would enable easier optimisation of the creatives: it's much easier to SEE the banner, and have the CTR next to it, than looking at a CSV with a code fro a specific creative. You look up the real outliers in the data-sets, but it really killse the enthusiasm for optimisation when dealing with hindreds of creatives all listed by a code like "hg6QImsjiInnj87_009".
+I decided to try it anyway, as it would enable easier optimisation of the creatives: it's much easier to SEE the banner, and have the CTR next to it, than looking at a CSV with a code fro a specific creative. You look up the real outliers in the data-sets, but it really killse the enthusiasm for optimisation when dealing with hundreds of creatives all listed by a code like "hg6QImsjiInnj87_009".
 Ugh..
 
 Lo-and-behold, after 15 conversions uploaded to a campaign, suddenly the CPA bidding became available. Even though AdWords support had said it would not!
